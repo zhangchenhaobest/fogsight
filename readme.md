@@ -1,3 +1,29 @@
+# fogsight
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Fogsight is an AI agent and animation engine powered by Large Language Models.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+由大语言模型驱动的 AI Agent 与动画引擎。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Fogsight (雾象) [**English**](./readme_en.md) | [**中文**](./readme.md)
 
 
